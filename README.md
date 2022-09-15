@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
-
-
 ### Hi there 👋
 My name is Dexter Ryan Floreza. I am a third-year computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
 
@@ -9,6 +6,8 @@ My name is Dexter Ryan Floreza. I am a third-year computer engineering student a
 🔭 Currently looking for 12-16 month long tech internships for the Fall 2023 season!
 
 📧 Contact me @ dexter.floreza@ryerson.ca.
+
+![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
 
 
 <!--
