@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name is Dexter Ryan Floreza. I am a third-year computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
 
-🔭 Currently looking for internships for the Fall 2023 season!
+😄 Pronouns: He/Him
+
+🔭 Currently looking for 12-16 month long internships for the Fall 2023 season!
 
 📧 Contact me @ dexter.floreza@ryerson.ca.
 
