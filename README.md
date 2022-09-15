@@ -3,10 +3,9 @@ My name is Dexter Ryan Floreza. I am a third-year computer engineering student a
 
 😄 Pronouns: He/Him
 
-🔭 Currently looking for 12-16 month long internships for the Fall 2023 season!
+🔭 Currently looking for 12-16 month long tech internships for the Fall 2023 season!
 
 📧 Contact me @ dexter.floreza@ryerson.ca.
-
 
 
 <!--
