@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Dexter Ryan Floreza. I am a third-year computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
+
+🔭 Currently looking for internships for the Fall 2023 season!
+
+📧 Contact me @ dexter.floreza@ryerson.ca.
+
+
 
 <!--
 **dexterfloreza/dexterfloreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
