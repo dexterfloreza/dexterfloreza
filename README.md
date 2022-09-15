@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
+
+
 ### Hi there 👋
 My name is Dexter Ryan Floreza. I am a third-year computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
 
@@ -7,7 +10,6 @@ My name is Dexter Ryan Floreza. I am a third-year computer engineering student a
 
 📧 Contact me @ dexter.floreza@ryerson.ca.
 
-![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
 
 <!--
 **dexterfloreza/dexterfloreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
