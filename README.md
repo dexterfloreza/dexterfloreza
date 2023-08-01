@@ -5,7 +5,7 @@ My name is Dexter Ryan Floreza. I am a third-year computer engineering student a
 
 🔭 Currently looking for 12-16 month long tech internships!
 
-📧 Contact me @ dexter.floreza@ryerson.ca.
+📧 Contact me @ dexter.floreza@torontomu.ca.
 
 ![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
 
