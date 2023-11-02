@@ -3,7 +3,7 @@ My name is Dexter Ryan Floreza. I am a third-year computer engineering student a
 
 😄 Pronouns: He/Him
 
-🔭 Currently looking for 12-16 month long tech internships!
+🔭 Currently looking for Winter 2024 internships!
 
 📧 Contact me @ dexter.floreza@torontomu.ca.
 
