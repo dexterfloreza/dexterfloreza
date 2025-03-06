@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dexter Ryan Floreza. I am a third-year computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
+My name is Dexter Ryan Floreza. I am a computer engineering student at Toronto Metropolitan University in Toronto, Canada. 
 
 😄 Pronouns: He/Him
 
