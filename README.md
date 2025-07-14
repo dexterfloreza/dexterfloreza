@@ -3,8 +3,6 @@ My name is Dexter Ryan Floreza. I am a computer engineering student at Toronto M
 
 😄 Pronouns: He/Him
 
-🔭 Currently looking for Spring 2025 internships!
-
 📧 Contact me @ dexter.floreza@torontomu.ca.
 
 ![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
