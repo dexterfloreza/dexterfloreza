@@ -12,8 +12,8 @@ My name is **Dexter Ryan Floreza**. I am a computer engineering student at **Tor
 ---
 
 ### 🧭 About Me
-- 🧠 I’m looking for new grad opportunities in **electronics** and **software engineering**.  
-- 💬 Reach me via **email** or **LinkedIn**:  
+🧠 I’m looking for new grad opportunities in **electronics** and **software engineering**.  
+💬 Reach me via **email** or **LinkedIn**:  
   📧 dexter.floreza@torontomu.ca  
   🔗 [linkedin.com/in/dexterryanfloreza](https://www.linkedin.com/in/dexterryanfloreza)  
 
