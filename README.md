@@ -1,4 +1,5 @@
-### 👋 Hi there 
+### 👋 Hi there!
+
 My name is **Dexter Ryan Floreza**. I am a computer engineering student at **Toronto Metropolitan University** in Toronto, Ontario, Canada.
 
 ---
