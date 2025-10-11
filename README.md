@@ -3,22 +3,20 @@ My name is Dexter Ryan Floreza. I am a computer engineering student at Toronto M
 
 😄 Pronouns: He/Him
 
-📧 Contact me @ dexter.floreza@torontomu.ca.
+👨‍💻 Work Experience
+
+
+    Electronics Team Member @ TMU CanSat [July 2025 - Present]
+    Project Manager @ Faculty of Engineering and Architectural Science [September 2024 - December 2024]
+    Technical Product Management Intern @ Zebra Technologies [January 2024 - April 2024]
+    
+😄 About me
+
+    🤔 I’m looking for new grad opportunities in electronics and software engineering.
+    📫 How to reach me via (email || LinkedIn): dexter.floreza@torontomu.ca || https://www.linkedin.com/in/dexterryanfloreza/
+    🚀 Check out my portfolio @ ryan-le.com
+
+
 
 ![](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
 
-
-<!--
-**dexterfloreza/dexterfloreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
