@@ -6,7 +6,7 @@ My name is **Dexter Ryan Floreza**. I am a computer engineering student at **Tor
 
 ### 💼 Work Experience
 - **Electronics Team Member** @ TMU CanSat *(July 2025 – Present)*
-- **Project Manager** @ Faculty of Engineering and Architectural Science *(Sept 2024 – Dec 2024)*
+- **Project Manager** @ Toronto Metropolitan University Faculty of Engineering and Architectural Science *(Sept 2024 – Dec 2024)*
 - **Technical Product Management Intern** @ Zebra Technologies *(Jan 2024 – Apr 2024)*
 
 ---
