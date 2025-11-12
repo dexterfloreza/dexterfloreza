@@ -10,6 +10,17 @@ My name is **Dexter Ryan Floreza**. I am a computer engineering student at **Tor
 - **Technical Product Management Intern** @ Zebra Technologies *(Jan 2024 – Apr 2024)*
 
 ---
+### 💼 Student Group Involvement
+I believe student group involvement is what keeps one well-rounded, especially in serving their communities. 
+- **Media and Operations Lead** @ TMU CanSat *(July 2024 - Present)*
+- **VP Finance** @ the Metropolitan Undergraduate Engineering Society *(May 2024 - April 2025)*
+- **VP Finance** @ the Electrical and Computer Engineering Society for Toronto Metropolitan Students *(May 2023 - April 2024)*
+- **VP Membership** @ TMU Toastmasters *(May 2021 - April 2022)*, *(May 2023 - January 2024)*
+
+
+  
+
+---
 
 ### 🧭 About Me
 🧠 I’m looking for new grad opportunities in **electronics** and **software engineering**.  
