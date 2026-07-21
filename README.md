@@ -9,7 +9,7 @@ My name is **Dexter Ryan Floreza**.
 💬 Reach me via **email** or **LinkedIn**:  
   📧 dexter.floreza@torontomu.ca  
   🔗 [[linkedin.com/in/dexterfloreza]](https://www.linkedin.com/in/dexterfloreza/)
----
+**---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dexterfloreza&color=blue)
 
